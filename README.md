@@ -2,7 +2,7 @@ A responsive Nike landing page built with React and Tailwind CSS.
 
 ## Live Demo
 
-[View Live Site](https://your-vercel-link.vercel.app)
+[View Live Site](https://nike-landing-page-fa4w91yk5-girishkumars-projects.vercel.app/)
 
 ## Technologies Used
 
